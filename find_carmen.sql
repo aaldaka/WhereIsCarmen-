@@ -62,7 +62,9 @@ WHERE c.capital = ci.id AND c.name = 'Brazil';
 
 
 -- We're counting on you, gumshoe. Find out where she's headed, send us the info, and we'll be sure to meet her at the gates with bells on.
+SELECT name, countrycode FROM city WHERE population = 91084;
 
 
+-- She's in _______ Santa Monica, USA ___________!
 
--- She's in ____________________________!
+--this was a very fun homework btw. I dislike sql but i enjoyed this very much!
